@@ -1,4 +1,3 @@
-# Curso de Git
-Este repositório foi criado para hospedar o esqueleto do projeto que será utilizado para explicar e ensinar o uso básico do Git dentro da Comunidade DS
+# Git Course
 
-[Link para o Dashboard](https://mrissi-cds-git.streamlit.app/)
+This repository was created to host the skeleton of the project that will be used to explain and teach the basic use of Git within the DS Community.
